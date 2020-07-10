@@ -16,37 +16,37 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>**AWS**</span><br><br><br>
+	      <span><strong>AWS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
-        <span>**Deno**</span><br><br><br>
+        <span><strong>Deno</strong></span><br><br><br>
         <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
       </td>
       <td width="25%" align="center">
-        <span>**JavaScript**</span><br><br><br>
+        <span><strong>JavaScript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>**Node.Js**</span><br><br><br>
+        <span><strong>Node.Js</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>**GraphQl**</span><br><br><br>
+        <span><strong>GraphQL</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="25%" align="center">
-        <span>**HTML5**</span><br><br><br>
+        <span><strong>Html 5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>**Git**</span><br><br><br>
+        <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>**Vs Code**</span><br><br><br>
+        <span><strong>Vs Code</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
