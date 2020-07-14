@@ -54,10 +54,9 @@
   </tbody>
 </table>
 
-PS: I also know the meaning of  'Lorem ipsum dolor sit amet' :P
+💨 PS: I also know the meaning of  'Lorem ipsum dolor sit amet' :P
 
 ![Jugal's github stats](https://github-readme-stats.vercel.app/api?username=jugaldb&show_icons=true&hide_border=true)
-
 <br>
 
   <a href="https://in.linkedin.com/in/jugal-bhatt14/">
