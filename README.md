@@ -74,4 +74,5 @@ No that DB doesn't stand for database tho :P
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
+![VisitorCount](https://profile-counter.glitch.me/jugaldb/count.svg)
 <br><br><br><br>
