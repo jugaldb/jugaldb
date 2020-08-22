@@ -81,6 +81,7 @@ No that DB doesn't stand for database tho :P
 <br><br><br><br>
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
