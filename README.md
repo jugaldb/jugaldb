@@ -60,9 +60,7 @@ No that DB doesn't stand for database tho :P
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jugaldb)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Jugal's github stats](https://github-readme-stats.vercel.app/api/?username=jugaldb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br>
-
+[![Jugal Bhatt's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jugaldb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://in.linkedin.com/in/jugal-bhatt14/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
