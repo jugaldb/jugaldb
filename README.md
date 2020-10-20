@@ -3,7 +3,7 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-
+<!-- By Jugal Bhatt -->
 No that DB doesn't stand for database tho :P
  
 - <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25> I’m currently working on Node 🚀, AWS and GraphQL⚡<br>
