@@ -77,7 +77,7 @@ No that DB doesn't stand for database tho :P
   </a>
 <br>
 
-![VisitorCount](https://profile-counter.glitch.me/jugaldb/count.svg)
+## You are one of the ![VisitorCount](https://profile-counter.glitch.me/jugaldb/count.svg) visitor
 <br><br><br><br>
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
