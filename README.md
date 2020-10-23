@@ -21,17 +21,17 @@ No that DB doesn't stand for database tho :P
 	      <span><strong>AWS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Deno</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
+	<td width="25%" align="center">
+        <span><strong>Node.Js</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Node.Js</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+        <span><strong>Deno</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
       </td>
     </tr>
     <tr valign="top">
