@@ -32,6 +32,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A better project structure with Express and Node.Js](https://medium.com/codechef-vit/a-better-project-structure-with-express-and-node-js-c23abc2d736f?source=rss-ac47eb23555d------2)
+- [Integrate Google Oauth in your Node.Js applications](https://medium.com/codechef-vit/integrate-google-oauth-in-your-node-js-applications-64b2ef41793b?source=rss-ac47eb23555d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
