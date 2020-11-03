@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugaldb" alt="jugaldb" /></a> </p>
 
-- 🔭 I’m currently working on [Notifvia](https://notifvia.com)
+- 🔭 I am currently working on - [GraphQL](https://graphql.org/)
+
+- 🔭 My last project was - [Notifvia](https://notifvia.com)
 
 - 🌱 I’m currently learning **Competitive Programming, CI/CD, Serverless**
 
