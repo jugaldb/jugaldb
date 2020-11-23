@@ -14,9 +14,9 @@
 
 - 🔭 My last project was - [Notifvia](https://notifvia.com)
 
-- 🌱 I’m currently learning **Competitive Programming, CI/CD, Serverless**
+- 🌱 I’m currently learning **Competitive Programming, CI/CD, Microservices**
 
-- 👯 I’m looking to collaborate on CI/CD
+- 👯 I’m looking to collaborate on Kubernetes, Microservices
 
 - 🤝 I’m looking for help with Serverless NodeJs
 
