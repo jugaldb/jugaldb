@@ -32,6 +32,10 @@
 
 - ⚡ Fun fact **That DB in the name is not database :P**
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A better project structure with Express and Node.Js](https://medium.com/codechef-vit/a-better-project-structure-with-express-and-node-js-c23abc2d736f?source=rss-ac47eb23555d------2)
