@@ -12,7 +12,7 @@
 
 - 🔭 I am currently working on - [GraphQL](https://graphql.org/)
 
-- 🔭 My last project was - [Notifvia](https://notifvia.com)
+- 🔭 My last project was - [Notifvia](https://notifvia.com)  
 
 - 🌱 I’m currently learning **Competitive Programming, CI/CD, Microservices**
 
