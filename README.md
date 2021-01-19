@@ -49,7 +49,7 @@
 <a href="https://linkedin.com/in/jugal-bhatt14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jugal-bhatt14" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jugal-bhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jugal-bhatt" height="30" width="40" /></a>
 <a href="https://fb.com/jugal.bhatt351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jugal.bhatt351" height="30" width="40" /></a>
-<a href="https://instagram.com/_jugalbhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jugalbhatt" height="30" width="40" /></a>
+<a href="https://instagram.com/jugaldb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jugalbhatt" height="30" width="40" /></a>
 <a href="https://medium.com/@jugaldb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jugaldb" height="30" width="40" /></a>
 </p>
 
