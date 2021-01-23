@@ -52,7 +52,8 @@
 <a href="https://instagram.com/jugaldb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jugalbhatt" height="30" width="40" /></a>
 <a href="https://medium.com/@jugaldb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jugaldb" height="30" width="40" /></a>
 </p>
-
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jugaldb&theme=radical" alt="jugaldb" width="400" /></p></p>
+<br>
 
 <p>
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=jugaldb&show_icons=true&locale=en&theme=blue-green" alt="jugaldb" width="400" /></p>  </p>
