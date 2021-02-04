@@ -32,6 +32,30 @@
 
 - ⚡ Fun fact **That DB in the name is not database :P**
 
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&?color=#FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
