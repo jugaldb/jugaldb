@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aGaR77ENDQJ_E3btezoTAPl3zPi6F9ua/view?usp=sharing)
 
-- ⚡ Fun fact **That DB in the name is not database :P**
+- ⚡ Fun fact **That DB in the username is not database :P**
 
 ### Languages
 
