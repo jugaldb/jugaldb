@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugaldb" alt="jugaldb" /></a> </p>
 
-- 🔭 I am currently working on - [GraphQL](https://graphql.org/)
+- 🔭 I am currently working on - [Flutter](https://flutter.dev)
 
-- 🔭 My last project was - [Common-Entry-Test](https://cet.codechefvit.com)  
+- 🔭 My last project was - [DEVSOC'21](https://devsoc.codechefvit.com)  
 
-- 🌱 I’m currently learning **Competitive Programming, CI/CD, Microservices**
+- 🌱 I’m currently learning **Competitive Programming, Flutter, Microservices**
 
 - 👯 I’m looking to collaborate on Kubernetes, Microservices
 
@@ -24,7 +24,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@jugaldb](https://medium.com/@jugaldb)
 
-- 💬 Ask me about **NodeJs, GraphQL, AWS, Facebook Graph-API**
+- 💬 Ask me about **NodeJs, GraphQL, AWS, Facebook Graph-API, Flutter, GraphQL**
 
 - 📫 How to reach me **jugalbhatt3@gmail.com**
 
@@ -40,6 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Dart](https://img.shields.io/badge/-dart-000?&logo=dart&logoColor=4479A1)
 
 ### Technologies
 
@@ -54,6 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&?color=#FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
 <!--START_SECTION:waka-->
