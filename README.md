@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugaldb" alt="jugaldb" /></a> </p>
 
-- 🔭 I am currently working on - [Flutter](https://flutter.dev)
 
 - 🔭 My last project was - [DEVSOC'21](https://devsoc.codechefvit.com)  
 
