@@ -7,6 +7,7 @@
 <h3 align="center">Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugaldb&label=Profile%20views&color=0e75b6&style=flat" alt="jugaldb" /> </p>
+<p align="left"> This is way out of date, too lazy to update, contact me at: jugalbhatt3@gmail.com </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugaldb" alt="jugaldb" /></a> </p>
 
