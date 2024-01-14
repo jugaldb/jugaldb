@@ -28,8 +28,6 @@
 
 - 📫 How to reach me **jugalbhatt3@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i1ejE1igOXNCriQ6HU2k45JH1qyA5_vz/view?usp=sharing)
-
 - ⚡ Fun fact **That DB in the username is not database :P**
 
 ### Languages
