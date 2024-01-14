@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Jugal Bhatt</h1>
-<h3 align="center">Software Developer from India</h3>
+<h3 align="center">Software Engineer from Champaign</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugaldb&label=Profile%20views&color=0e75b6&style=flat" alt="jugaldb" /> </p>
 <p align="left"> This is way out of date, too lazy to update, contact me at: jugalbhatt3@gmail.com </p>
